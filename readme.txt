@@ -1,6 +1,6 @@
 === Email Marketing by Drip ===
 Contributors: drip
-Tags: email marketing, lead generation, digital marketing, email campaign, email newsletters, autoresponders
+Tags: email marketing, marketing automation, email campaign, email newsletters, autoresponders
 Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: 1.0.0
@@ -11,7 +11,7 @@ Use email and years of best practices to create a double-digit jump in your conv
 
 == Description ==
 
-Drip (www.getdrip.com) is the easiest way to capture drive-by website visitors and 
+[Drip](https://www.getdrip.com) is the easiest way to capture drive-by website visitors and 
 engage with them through an email mini-course. The first step to setting up Drip is 
 to install a snippet of JavaScript in the footer of your website, and this plugin makes 
 that dead simple for our customers who run WordPress.
