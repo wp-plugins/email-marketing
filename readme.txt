@@ -11,10 +11,13 @@ Use email and years of best practices to create a double-digit jump in your conv
 
 == Description ==
 
-[Drip](https://www.getdrip.com) is the easiest way to capture drive-by website visitors and 
-engage with them through an email mini-course. The first step to setting up Drip is 
-to install a snippet of JavaScript in the footer of your website, and this plugin makes 
-that dead simple for our customers who run WordPress.
+[Drip](https://www.getdrip.com) is email marketing automation that doesn't suck. It's
+the easiest way to build your email list and engage your subscribers through an email 
+mini-course. Easily send emails to your prospects, trial users and customers based on their
+behavior.
+
+The first step to setting up Drip is to install a snippet of JavaScript in the footer 
+of your website, and this plugin makes that dead simple for our customers who run WordPress.
 
 = The Drip Process =
 
