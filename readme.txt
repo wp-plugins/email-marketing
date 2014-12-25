@@ -15,8 +15,6 @@ Use email and years of best practices to create a double-digit jump in your conv
 the easiest way to build your email list and engage your subscribers through an email 
 mini-course.
 
-<img src="http://www.thenumagroup.com/drip-wp-plugin-images/email-marketing-testimonial.png" alt="email marketing software testimonial">
-
 Easily send emails to your prospects, trial users and customers based on their
 behavior. It's the fastest way to get started with email marketing on WordPress.
 
@@ -27,7 +25,7 @@ and this plugin makes installing it on WordPress a one-click operation.
 The first step to setting up Drip is to install a snippet of JavaScript in the footer 
 of your website, and this plugin makes that dead simple for our customers who run WordPress.
 
-<iframe width="500" height="375" src="//www.youtube.com/embed/I0Bs7zHANpc?rel=0" frameborder="0" allowfullscreen></iframe>
+[youtube https://www.youtube.com/watch?v=I0Bs7zHANpc]
 
 = The Drip Process =
 
