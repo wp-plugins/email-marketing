@@ -13,17 +13,27 @@ Use email and years of best practices to create a double-digit jump in your conv
 
 [Drip](https://www.getdrip.com) is email marketing automation that doesn't suck. It's
 the easiest way to build your email list and engage your subscribers through an email 
-mini-course. Easily send emails to your prospects, trial users and customers based on their
-behavior.
+mini-course.
+
+<img src="http://www.thenumagroup.com/drip-wp-plugin-images/email-marketing-testimonial.png" alt="email marketing software testimonial">
+
+Easily send emails to your prospects, trial users and customers based on their
+behavior. It's the fastest way to get started with email marketing on WordPress.
+
+It's likely that you've been looking for a WordPress plugin for email marketing but
+have been overwhelmed by the choices. Drip is the future of email marketing software,
+and this plugin makes installing it on WordPress a one-click operation.
 
 The first step to setting up Drip is to install a snippet of JavaScript in the footer 
 of your website, and this plugin makes that dead simple for our customers who run WordPress.
 
+<iframe width="500" height="375" src="//www.youtube.com/embed/I0Bs7zHANpc?rel=0" frameborder="0" allowfullscreen></iframe>
+
 = The Drip Process =
 
 Simply [sign up for a Drip account](https://www.getdrip.com/pricing) and install this
-plugin to get started. Once installed, we place a tracking script on your site to
-activate your Drip account's features.
+plugin to get started. Once installed, we place a small snippet of JS on your site to
+that allows Drip to work its email marketing magic.
 
 = More Information =
 
