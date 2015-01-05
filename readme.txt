@@ -7,20 +7,22 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use email and years of best practices to create a double-digit jump in your conversion rate.
+The easiest way to build your email list, engage your subscribers through an email mini-course,
+and get started with email marketing automation.
 
 == Description ==
 
 [Drip](https://www.getdrip.com) is email marketing automation that doesn't suck. It's
-the easiest way to build your email list and engage your subscribers through an email 
-mini-course.
-
-Easily send emails to your prospects, trial users and customers based on their
-behavior. It's the fastest way to get started with email marketing on WordPress.
+the easiest way to get started with email marketing on WordPress, from building your email 
+list to engaging your subscribers through an email mini-course.
 
 It's likely that you've been looking for a WordPress plugin for email marketing but
 have been overwhelmed by the choices. Drip is the future of email marketing software,
 and this plugin makes installing it on WordPress a one-click operation.
+
+With Drip you can easily send emails to your prospects, trial users and customers based on their
+behavior. Using tags and events you can segment your users and send emails that are highly
+focused and personalized based on their past interactions with your website or web application.
 
 The first step to setting up Drip is to install a snippet of JavaScript in the footer 
 of your website, and this plugin makes that dead simple for our customers who run WordPress.
