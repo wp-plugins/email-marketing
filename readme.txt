@@ -43,9 +43,9 @@ that allows Drip to work its email marketing magic.
 
 - [Try Drip free for 21 days](https://www.getdrip.com)
 - [How does Drip work?](https://www.getdrip.com/tour)
-- [Frequently asked questions] (https://www.getdrip.com/faq)
-- [Drip API documentation] (https://www.getdrip.com/docs)
-- [About our team] (https://www.getdrip.com/about)
+- [Frequently asked questions](https://www.getdrip.com/faq)
+- [Drip API documentation](https://www.getdrip.com/docs)
+- [About our team](https://www.getdrip.com/about)
 
 = Need Help? =
 
