@@ -21,11 +21,15 @@ have been overwhelmed by the choices. Drip is the future of email marketing soft
 and this plugin makes installing it on WordPress a one-click operation.
 
 With Drip you can easily send emails to your prospects, trial users and customers based on their
-behavior. Using tags and events you can segment your users and send emails that are highly
+behavior. 
+
+Using tags and events you can segment your users and send emails that are highly
 focused and personalized based on their past interactions with your website or web application.
 
 The first step to setting up Drip is to install a snippet of JavaScript in the footer 
 of your website, and this plugin makes that dead simple for our customers who run WordPress.
+
+After that, you'll be gathering new email subscribers in less than five minutes.
 
 [youtube https://www.youtube.com/watch?v=I0Bs7zHANpc]
 
@@ -39,10 +43,13 @@ that allows Drip to work its email marketing magic.
 
 - [Try Drip free for 21 days](https://www.getdrip.com)
 - [How does Drip work?](https://www.getdrip.com/tour)
+- [Frequently asked questions] (https://www.getdrip.com/faq)
+- [Drip API documentation] (https://www.getdrip.com/docs)
+- [About our team] (https://www.getdrip.com/about)
 
 = Need Help? =
 
-[Contact our friendly support staff](https://www.getdrip.com/contact) for assistance.
+[Contact our friendly support team](https://www.getdrip.com/contact) for assistance.
 
 == Installation ==
 
