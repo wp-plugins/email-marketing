@@ -16,22 +16,63 @@ and get started with email marketing automation.
 the easiest way to get started with email marketing on WordPress, from building your email 
 list to engaging your subscribers through an email mini-course.
 
-It's likely that you've been looking for a WordPress plugin for email marketing but
-have been overwhelmed by the choices. Drip is the future of email marketing software,
-and this plugin makes installing it on WordPress a one-click operation.
+It's likely that you've been looking for a WordPress plugin to help you automate email marketing but have been overwhelmed by the choices. Drip is the future of email marketing software, and this plugin saves you time with an easy one-click WordPress installation.
 
-With Drip you can easily send emails to your prospects, trial users and customers based on their
-behavior. 
+With Drip you can collect email addresses and easily send messages to your prospects, trial users and customers based on their behavior.
 
-Using tags and events you can segment your users and send emails that are highly
-focused and personalized based on their past interactions with your website or web application.
+= Setting Up Drip =
 
-The first step to setting up Drip is to install a snippet of JavaScript in the footer 
-of your website, and this plugin makes that dead simple for our customers who run WordPress.
+The first step to setting up Drip is to install a snippet of JavaScript in the footer of your website, and this plugin makes that dead simple for our customers who run WordPress.
 
-After that, you'll be gathering new email subscribers in less than five minutes.
+After that, you'll be gathering new email subscribers with our handy opt-in widget in less than five minutes.
 
 [youtube https://www.youtube.com/watch?v=I0Bs7zHANpc]
+
+= Drips Features =
+
+Use our automation engine to apply tags to your subscribers when they perform particular actions, such as visiting a page on your website, clicking a link in an email, making a purchase, or any other custom event you send to Drip. We also support unlimited custom fields (such as "name" and "phone") on all subscribers.
+
+You can segment your users using tags and events, allowing you to send newsletters and transactional emails and campaigns that are highly personalized based on interactions your users have with your website or web application.
+
+Drip has 8 triggers and 11 actions in our Automation Rule builder. Automation Rules make it easy to move people in and out of campaigns, apply tags, record conversions, send them to an another application (like a CRM system), and more.
+
+Drip automatically tracks subscriber activity on your site and in your app along with a number of key performance metrics for opt-in forms and campaigns.
+
+Drip even calculates lead score, letting you track leads that are most likely to convert to sales and grow your business.
+
+Subscriber pruning helps you remove subscribers who are no longer engaging with your emails, to keep your cost down and your list quality high.
+
+Harness the power of native integration. Drip works with dozens of applications and platforms, including: landing page providers, payment gateways, shopping carts, CRM systems, and more. 
+
+Our list of integrations is constantly growing, so its likely that Drip integrates with services that are already in your toolkit. 
+
+Our development team is constantly adding new features to help our customers be more awesome at what they do. Here are just a few of our best features:
+
+= Reports =
+Keep tabs on subscriber growth, engagement, ROI, tags, and more in our reporting area.
+
+= Split Testing =
+Test your subject lines, send times, and from names within your drip campaigns.
+
+= Concierge Service =
+Our writers can either adapt your existing content or write a custom course from scratch.
+
+= Campaign Blueprints =
+Our pre-built blueprints help you build your drip campaigns using industry best practices.
+
+- We also feature:
+- RSS-to-Email
+- Multi-User Access
+- Custom Email Templates
+- Custom DKIM/SPF
+- Automation Rule Blueprints
+- Full Knowledge Base
+- Data Exports
+- Monthly or Annual Billing
+- Custom Redirect Pages
+- Localization Support
+- Google Analytics Support
+- Global Subscriber Search
 
 = The Drip Process =
 
@@ -50,6 +91,10 @@ that allows Drip to work its email marketing magic.
 = Need Help? =
 
 [Contact our friendly support team](https://www.getdrip.com/contact) for assistance.
+
+
+
+
 
 == Installation ==
 
