@@ -30,19 +30,19 @@ After that, you'll be gathering new email subscribers with our handy opt-in widg
 
 = Drips Features =
 
-Use our automation engine to *apply tags to your subscribers* when they perform particular actions, such as visiting a page on your website, clicking a link in an email, making a purchase, or any other custom event you send to Drip. We also support unlimited custom fields (such as "name" and "phone") on all subscribers.
+Use our automation engine to **apply tags to your subscribers** when they perform particular actions, such as visiting a page on your website, clicking a link in an email, making a purchase, or any other custom event you send to Drip. We also support unlimited custom fields (such as "name" and "phone") on all subscribers.
 
-You can segment your users using tags and events, allowing you to send newsletters and transactional emails and campaigns that are *highly personalized* based on interactions your users have with your website or web application.
+You can segment your users using tags and events, allowing you to send newsletters and transactional emails and campaigns that are **highly personalized** based on interactions your users have with your website or web application.
 
-Drip has 8 triggers and 11 actions in our Automation Rule builder. Automation Rules make it easy to *move people in and out of campaigns*, apply tags, record conversions, send them to an another application (like a CRM system), and more.
+Drip has 8 triggers and 11 actions in our Automation Rule builder. Automation Rules make it easy to **move people in and out of campaigns**, apply tags, record conversions, send them to an another application (like a CRM system), and more.
 
-Drip *automatically tracks subscriber activity* on your site and in your app along with a number of key performance metrics for opt-in forms and campaigns.
+Drip **automatically tracks subscriber activity** on your site and in your app along with a number of key performance metrics for opt-in forms and campaigns.
 
-Drip even calculates lead score, letting you track *leads that are most likely to convert* to sales and grow your business.
+Drip even calculates lead score, letting you track **leads that are most likely to convert** to sales and grow your business.
 
 Subscriber pruning helps you remove subscribers who are no longer engaging with your emails, to keep your cost down and your list quality high.
 
-Harness the power of native integration. Drip works with *dozens of applications and platforms*, including: landing page providers, payment gateways, shopping carts, CRM systems, and more. 
+Harness the power of native integration. Drip works with **dozens of applications and platforms**, including: landing page providers, payment gateways, shopping carts, CRM systems, and more. 
 
 Our list of integrations is constantly growing, so its likely that Drip integrates with services that are already in your toolkit. 
 
